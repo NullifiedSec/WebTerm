@@ -266,7 +266,7 @@ Text Editor: Neovim
 Fun Facts:
 - I am a Cyber Security Engineer and a Programmer
 - Skills: Penetration Testing, Linux Administration, C, Python, Javascript, Solidity, Bash Scripting, MERN Stack Development
-- Achievements: Hackthebox 3rd rank holder in my country, Bug Bounty Hunter at the age of 13
+- Achievements: Hackthebox 1st rank holder in my country and a Successful Bug Bounty Hunter at the age of 13
 `;
         appendResponse(response);
         return ``;
